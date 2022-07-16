@@ -85,3 +85,19 @@
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+.about{
+    text-align: center;
+    color: #fff;
+    background-color: #1ABC9C;
+}
+.about h1{
+    padding: 85px 0 20px;
+    
+    
+}
+.about .writing1{
+    font-weight: 300;
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
