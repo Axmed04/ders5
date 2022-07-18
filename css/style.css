@@ -128,3 +128,75 @@
     margin-bottom: 100px;
     margin-top: 40px;
 }
+.contact{
+    text-align: center;
+    /* display: block; */
+}
+.contact .contact-text{
+    color: #2C3E50;
+    
+}
+.contact .contact-text h1{
+    margin-top: 60px;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.contact .contact-top{
+    margin-top: 30px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    /* padding: 20px; */
+    
+    
+}
+.contact .contact-top .contact-top1 input{
+    /* display: block; */
+    /* width: 100%; */
+    /* padding: 50px; */
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 1px;
+    width: 60%;
+    padding: 20px 0;
+    
+}
+.contact .contact-top .contact-top2 input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 1px;
+    width: 60%;
+    padding: 20px 0;
+}
+.contact .contact-top .contact-top3 input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 1px;
+    width: 60%;
+    padding: 20px 0;
+}
+.contact .contact-top .contact-top4 input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 1px;
+    width: 60%;
+    padding: 20px 0;
+}
+.contact .button button{
+    /* padding: 30%; */
+    margin: 20px;
+    background-color: #6BD4BF;
+    color: #fff;
+    
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 20px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
